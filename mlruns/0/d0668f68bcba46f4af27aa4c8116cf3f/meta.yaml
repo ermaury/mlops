@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/Escritorio/mlops/mlops/mlruns/0/d0668f68bcba46f4af27aa4c8116cf3f/artifacts
+end_time: 1755755193745
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d0668f68bcba46f4af27aa4c8116cf3f
+run_name: peaceful-colt-463
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755755183217
+status: 3
+tags: []
+user_id: ermaury
